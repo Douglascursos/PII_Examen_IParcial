@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Examen_#Sharp_I_Parcial/1.0.0": {
+        "runtime": {
+          "Examen_#Sharp_I_Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen_#Sharp_I_Parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

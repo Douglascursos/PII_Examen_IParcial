@@ -1,0 +1,14 @@
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\Examen_#Sharp_I_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\Examen_#Sharp_I_Parcial.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\Examen_#Sharp_I_Parcial.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\Examen_#Sharp_I_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\bin\Debug\net8.0\Examen_#Sharp_I_Parcial.exe
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\bin\Debug\net8.0\Examen_#Sharp_I_Parcial.deps.json
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\bin\Debug\net8.0\Examen_#Sharp_I_Parcial.runtimeconfig.json
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\bin\Debug\net8.0\Examen_#Sharp_I_Parcial.dll
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\bin\Debug\net8.0\Examen_#Sharp_I_Parcial.pdb
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\Examen_#Sharp_I_Parcial.dll
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\refint\Examen_#Sharp_I_Parcial.dll
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\Examen_#Sharp_I_Parcial.pdb
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\Examen_#Sharp_I_Parcial.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\C#\Examen_#Sharp_I_Parcial\Examen_#Sharp_I_Parcial\obj\Debug\net8.0\ref\Examen_#Sharp_I_Parcial.dll
